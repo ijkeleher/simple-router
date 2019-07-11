@@ -1,0 +1,19 @@
+{
+  "name": "really-simple-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inci90/simpler-router.git"
+  },
+  "author": "Isaac Keleher (inci90)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inci90/simpler-router/issues"
+  },
+  "homepage": "https://github.com/inci90/simpler-router#readme"
+}
